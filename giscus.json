@@ -1,4 +1,4 @@
 {
   "origins": ["https://PeichengLiu.github.io"],
-  "originsRegex": ["http://localhost:\S*"]
+  "originsRegex": ["http://localhost:\\S*"]
 }
