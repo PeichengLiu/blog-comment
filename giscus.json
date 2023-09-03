@@ -1,4 +1,8 @@
 {
-  "origins": ["https://PeichengLiu.github.io"],
-  "originsRegex": ["http://localhost:[0-9]+/\\S*"]
+  "origins": [
+    "https://peichengliu.github.io"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ]
 }
